@@ -1,4 +1,4 @@
-# ATG_UI_automation
+# Python_UI_automation
 ********************
 
 This is web automation framework, implemented using Python & Webdriver. Page Object Model (POM) is used to make the code more readable, maintainable, and reusable
@@ -24,7 +24,7 @@ Prerequisite:
 Automation Framework Structure :
 *********************************
 
-	ATG_UI_automation 
+	Python_UI_automation 
 		data
 			- contains data generation file
 		drivers
