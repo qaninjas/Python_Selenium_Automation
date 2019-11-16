@@ -1,0 +1,16 @@
+class DataForEvent:
+    def __init__(self):
+        self.title = "an Event"
+        self.text = "Its' a must attend event"
+        self.tags = "business,entrepeneurship"
+        self.name = "Kathait"
+        self.number = "9087654321"
+        self.email = "testmail@atg.com"
+        self.venue = "Hamilton, ON, Canada"
+        self.price_for_single_ticket = "200"
+        self.multi_category1 = "hackathon"
+        self.description_multi_category1="a hackathon"
+        self.price_category1="400"
+        self.multi_category2 = "codathon"
+        self.description_multi_category2="a codathon"
+        self.price_category2 = "600"
